@@ -19,7 +19,7 @@ namespace _3form
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            Result.Text = "";
             bool violationOfEquality = false;
             try
             {
