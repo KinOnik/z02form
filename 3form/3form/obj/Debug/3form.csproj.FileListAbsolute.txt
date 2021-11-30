@@ -1,0 +1,11 @@
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\bin\Debug\3form.exe.config
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\bin\Debug\3form.exe
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\bin\Debug\3form.pdb
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\3form.csproj.AssemblyReference.cache
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\3form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\_3form.Form1.resources
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\_3form.Properties.Resources.resources
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\3form.csproj.GenerateResource.cache
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\3form.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\3form.exe
+C:\Users\Andrey\Desktop\учеба\praktika\2\3form\3form\obj\Debug\3form.pdb
